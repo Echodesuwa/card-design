@@ -12,3 +12,8 @@ description = "获得 2(3) 点 EVE 能量. "
 name = "异次元涌动"
 cost = 2
 description = "获得 4(6) 层 EVE 能量。本回合保持 EVE 能量."
+
+[[cards]]
+name = "逆焰护体"
+cost = 1
+description = "获得 8(11) 点格挡。【回火】：下回合抽牌数 -1."
