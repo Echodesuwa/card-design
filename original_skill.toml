@@ -1,0 +1,9 @@
+[[Cards]]
+name = "防御"
+cost = 1
+description = "获得 5(8) 点格挡. "
+
+[[Cards]]
+name = "汲取能量"
+cost = 1
+description = "获得 2(3) 点 EVE 能量. "

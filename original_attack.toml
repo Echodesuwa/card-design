@@ -1,0 +1,9 @@
+[[cards]]
+name = "打击"
+cost = 1
+description = "造成 6(9) 点伤害. "
+
+[[cards]]
+name = "EVE 突击"
+cost = 1
+description = "造成 7 点伤害. 每拥有一点 EVE 能量, 伤害增加 2(3) 点. "
